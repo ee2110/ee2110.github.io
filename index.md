@@ -1,13 +1,8 @@
 ---
-layout: default
-title: Welcome
+title: Welcome to my website
+feature_image: "https://picsum.photos/1300/400?image=989"
+feature_text: |
+  ## Hello world
 ---
 
-# 👋 Hi, I'm Your Name
-
-I'm a software developer passionate about building simple and powerful tools.
-
-- 🔭 I’m currently working on...
-- 🌱 I’m learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [Your Email or Link](mailto:your@email.com)
+There isn't much going on here yet, but watch this space
